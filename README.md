@@ -1,4 +1,4 @@
-This repository consists of the code of the app for the second problem statement 
+This repository consists of the code of the app for the second problem statement on data analysis
 
 # This repository consists of :
 
@@ -14,7 +14,7 @@ This application demonstrates how the Automotive Industry could harness data to 
 
 The application purely uses python and its libraries
 
-The python libraries used and imported are as  :
+# The python libraries used and imported are as  :
 
 import pandas as pd 
 
