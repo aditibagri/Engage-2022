@@ -14,7 +14,7 @@ This application demonstrates how the Automotive Industry could harness data to 
 
 The application purely uses python and its libraries
 
-The python libraries used and import are as  :
+The python libraries used and imported are as  :
 
 import pandas as pd 
 
