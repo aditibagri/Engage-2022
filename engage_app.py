@@ -5,7 +5,6 @@ import math
 import streamlit as st
 import pandas as pd
 import numpy as np
-import tkinter as tk
 import time
 import plotly.express as px
 from sklearn.decomposition import PCA
