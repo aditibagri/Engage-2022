@@ -134,7 +134,7 @@ def filter_data():
  if uploaded_file is not None:
      
      scatter_column.markdown("Given below is the complete database of the sales and specification of the cars \nYou can filter and sort the data you wish to view . ")
-     scatter_column.text("Note : To sort data click on the column heading of the colum you wish to sort. ")
+     scatter_column.text("Note : To sort data click on the column heading of the column you wish to sort. ")
      st.markdown('APPLY FILTERS :') 
      data_import = pd.read_csv(uploaded_file)
      company_name = data_import['Company'].unique().tolist()
