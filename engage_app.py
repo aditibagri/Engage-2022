@@ -184,7 +184,7 @@ def predict_price() :
             
          
          if scatter_column.button('Predict Price'):
-       
+                 scatter_column.text("Note:The price is in Lakhs(INR)")
                  prediction = reg.predict([[Horsepower,Torque,Mileage]])
                  scatter_column.success(prediction)
     else:
